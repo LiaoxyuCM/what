@@ -1,0 +1,22 @@
+This program add 'Counter' function.
+
+help document
+
+first , Create a new target
+
+use code:
+
+from what import Counter
+counter = Counter()
+
+if success then use code to ...
+
+use 'counter.increment()' to +1
+use 'counter.decrement()' to -1
+use 'counter.reset()' reset to 0
+use 'counter.get_count()' to return The current number of the counter ,Generally used for Variable assignment and output .
+  take for example
+  code:
+
+  i = counter.get_count()
+  print(i)
