@@ -8,7 +8,7 @@ def Update_content():
     print('0.7.7 Update content\nNew --Counter')
 
 def statement():
-    print("PLEASE DON'T F**K THIS. BECAUSE THIS MODULE'S AUTHER IS STUDENT. MAKING IS NOT EASY. LIKE=UPDATE")
+    print("thank ChatAI")
 
 def development_history():
     print('2024 January ,first version .\nMarch 2nd , this program publish to github .\n...')
