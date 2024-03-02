@@ -10,6 +10,9 @@ def Update_content():
 def statement():
     print("PLEASE DON'T F**K THIS. BECAUSE THIS MODULE'S AUTHER IS STUDENT. MAKING IS NOT EASY. LIKE=UPDATE")
 
+def development_history():
+    print('2024 January ,first version .\nMarch 2nd , this program publish to github .\n...')
+
 def ChineseAI():
     print('AI:'+input("我:").strip('吗？?')+'!')
 
