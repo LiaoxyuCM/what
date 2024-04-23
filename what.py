@@ -2,10 +2,10 @@ import webbrowser,sys,time,random
 #PLEASE DON'T F**K THIS. BECAUSE THIS MODULE'S AUTHER IS STUDENT. MAKING IS NOT EASY. LIKE=UPDATE
 
 def version():
-    print('Module what  --version 0.8 (alpha)')
+    print('Module what  --version 0.8.2 (alpha)')
 
 def Update_content():
-    print('0.8 Update content\nNew --Morse encode and decode')
+    print('0.8.2 Update content\nNew --Console')
 
 def statement():
     print("thank ChatAI")
@@ -275,3 +275,12 @@ def decode(morse_code):
                 text += char
                 break
     return text
+
+def log(msg):
+    print("log: ",msg)
+
+def warn(msg):
+    raise Warning (msg)
+
+def error(msg):
+    raise BaseException (msg)
